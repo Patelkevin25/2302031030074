@@ -1,0 +1,8 @@
+Steps of GitHub creating repo!
+
+1) Downloaded & Installed Git
+2) Created account in GitHub
+3) Created Repo
+4) Initiliased Empty Repo
+5) Commited
+6) Pushed this first answer of Assignment-1, Question1.
